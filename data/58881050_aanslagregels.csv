@@ -1,0 +1,6 @@
+biljetnummer;aanslagnummer;soort_belasting;belastingperiode;grondslag;bedrag;btw;omschrijving1;omschrijving2;belastingjaar;objectnummer;straat;huisnummer;huisletter;toevoeging;postcode;wozobjectnummer;woning;objectoms
+58881050;"	0000062303615";BESE;"01-01-2021 - 31-12-2021";618000;0,00;0,00;"Alexanderplein 11 B Amsterdam";"Waardepeildatum 01-01-2020 WOZ-waarde: 618.000 euro.";2021;22289;Alexanderplein;11;B;;1018CG;"	036300022289";WON;
+58881050;"	0000062328304";OZBE;"01-01-2021 - 31-12-2021";618000;264,50;0,00;"Alexanderplein 11 B Amsterdam";"Heffingsgrondslag: 618.000 euro (woning)";2021;22289;Alexanderplein;11;B;;1018CG;"	036300022289";WON;
+58881050;"	0000062383814";AFV;"01-01-2021 - 31-12-2021";2;435,00;0,00;"Alexanderplein 11 B Amsterdam";"Meerpersoonshuishouden AFV    29027870";2021;22289;Alexanderplein;11;B;;1018CG;"	036300022289";;
+58881050;"	0000062284043";BESG;"01-01-2021 - 31-12-2021";618000;0,00;0,00;"Alexanderplein 11 B Amsterdam";"Waardepeildatum 01-01-2020 WOZ-waarde: 618.000 euro.";2021;22289;Alexanderplein;11;B;;1018CG;"	036300022289";WON;
+58881050;"	0000062342738";RIOE;"01-01-2021 - 31-12-2021";1;144,00;0,00;"Alexanderplein 11 B Amsterdam";"Aant.aansl: 1, aansl.code PIP   14858944";2021;22289;Alexanderplein;11;B;;1018CG;"	036300022289";WON;
